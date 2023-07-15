@@ -1,6 +1,4 @@
-
-https://github.com/ayush2000mickey/Density-Exchange-Assignment/assets/56113584/64d6eae3-0b61-44f5-b25a-74f8f799afc2
-![image](https://github.com/ayush2000mickey/Density-Exchange-Assignment/assets/56113584/ad9519c1-92ef-4905-817b-206ae0db808b)# **Density Exchange Frontend Assignment**
+**Density Exchange Frontend Assignment**
 
 ## Assignment Screenshots
 
